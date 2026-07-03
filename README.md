@@ -4,7 +4,6 @@ Contains AI projects developed as part of CodeSoft Artificial Intelligence Inter
 ## Projects Included
 - Rule-Based Chatbot
 - Recommendation System
-- Machine Learning Models
 - AI-based Problem Solving Applications
   TIC-TAC-TOE AI
 ## Technologies Used
